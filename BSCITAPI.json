@@ -1,0 +1,46 @@
+{
+  "api": [
+    {
+      "name": "1st Sem",
+      "img": "",
+      "desc": "",
+      "type": ""
+    },
+    {
+      "name": "Computer Fundamental (CF)",
+      "img": "",
+      "desc": "Study about interection between Computer Software & Hardware, Basicaly all the basics about Computer System & it's components.",
+      "type": "Theory"
+    },
+    {
+      "name": "Digital Electronics (DE)",
+      "img": "",
+      "desc": "Digital electronics is a field of electronics involving the study of digital signals and logic gates, number system, conversions of numbers, Flip Flops and many more.",
+      "type": "Theory"
+    },
+    {
+      "name": "Microcessor (MICRO)",
+      "img": "",
+      "desc": "Introduction to microprocessor and microcomputers, 8086 Hardware specifications. Data movement & arithmatic instructions on actual 8086 microprocessor kit.",
+      "type": "Practical"
+    },
+    {
+      "name": "Programming in C (Prog. In C)",
+      "img": "",
+      "desc": "Introduction to C programming language,history of c, operators, input output statements, datatypes, loops, compilation and execution and many more.",
+      "type": "Practical"
+    },
+    {
+      "name": "Communication Skills 1 (CS-I)",
+      "img": "Work on your personal communication Skills and other soft skills.",
+      "desc": "",
+      "type": "Theory"
+    },
+    {
+      "name": "Mathematical Foundation (MF)",
+      "img": "",
+      "desc": "Study of basic mathmatics that can be needed in programming. Study of set theory, cardinality, representation of set, graph theory, relation & function and many more.",
+      "type": "Theory"
+    }
+  ]
+}
