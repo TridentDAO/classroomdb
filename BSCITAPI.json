@@ -65,9 +65,9 @@
       "size": "0"
     },
     {
-      "name": "Data Structures (DS)",
+      "name": "Computer Fundamental (CF)",
       "img": "",
-      "desc": "Study of basic data structures and algorithms, data structures like array, stack, queue & algorithms like bubble sort, etc.",
+      "desc": "Study about interection between Computer Software & Hardware, Basicaly all the basics about Computer System & it's components.",
       "type": "Theory",
       "color": "#444444",
       "size": "14"
