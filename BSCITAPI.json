@@ -9,24 +9,16 @@
       "size": "0"
     },
     {
-      "name": "Data Structures (DS)",
+      "name": "Computer Fundamental (CF)",
       "img": "https://raw.githubusercontent.com/TridentDAO/classroomdb/main/glide.jpeg",
-      "desc": "Study of basic data structures and algorithms, data structures like array, stack, queue & algorithms like bubble sort, etc.",
-      "type": "Theory",
-      "color": "#444444",
-      "size": "14"
-    },
-    {
-      "name": "Digital Electronics (DE)",
-      "img": "https://raw.githubusercontent.com/TridentDAO/classroomdb/main/glide.jpeg",
-      "desc": "Digital electronics is a field of electronics involving the study of digital signals and logic gates, number system, conversions of numbers, Flip Flops and many more.",
+      "desc": "Study about interection between Computer Software & Hardware, Basicaly all the basics about Computer System & it's components.",
       "type": "Theory",
       "color": "#444444",
       "size": "14"
     },
     {
       "name": "Microcessor (MICRO)",
-      "img": "https://raw.githubusercontent.com/TridentDAO/classroomdb/main/glide2.jpeg",
+      "img": "https://raw.githubusercontent.com/TridentDAO/classroomdb/main/glide.jpeg",
       "desc": "Introduction to microprocessor and microcomputers, 8086 Hardware specifications. Data movement & arithmatic instructions on actual 8086 microprocessor kit.",
       "type": "Practical",
       "color": "#444444",
@@ -65,31 +57,31 @@
       "size": "0"
     },
     {
-      "name": "Computer Fundamental (CF)",
+      "name": "Data Structures (DS)",
       "img": "https://raw.githubusercontent.com/TridentDAO/classroomdb/main/glide.jpeg",
-      "desc": "Study about interection between Computer Software & Hardware, Basicaly all the basics about Computer System & it's components.",
-      "type": "Theory",
-      "color": "#444444",
-      "size": "14"
-    },
-    {
-      "name": "Digital Electronics (DE)",
-      "img": "https://raw.githubusercontent.com/TridentDAO/classroomdb/main/glide2.jpeg",
-      "desc": "Digital electronics is a field of electronics involving the study of digital signals and logic gates, number system, conversions of numbers, Flip Flops and many more.",
-      "type": "Theory",
-      "color": "#444444",
-      "size": "14"
-    },
-    {
-      "name": "Microcessor (MICRO)",
-      "img": "https://raw.githubusercontent.com/TridentDAO/classroomdb/main/glide.jpeg",
-      "desc": "Introduction to microprocessor and microcomputers, 8086 Hardware specifications. Data movement & arithmatic instructions on actual 8086 microprocessor kit.",
+      "desc": "Study of basic data structures and algorithms, data structures like array, stack, queue & algorithms like bubble sort, etc.",
       "type": "Practical",
       "color": "#444444",
       "size": "14"
     },
     {
-      "name": "Programming in C (Prog. In C)",
+      "name": "Oprating System (Os)",
+      "img": "https://raw.githubusercontent.com/TridentDAO/classroomdb/main/glide2.jpeg",
+      "desc": "Study about how operating system work.",
+      "type": "Theory",
+      "color": "#444444",
+      "size": "14"
+    },
+    {
+      "name": "IT TOOLS & WEB I",
+      "img": "https://raw.githubusercontent.com/TridentDAO/classroomdb/main/glide.jpeg",
+      "desc": "HTML CSS3 and web desining",
+      "type": "Practical",
+      "color": "#444444",
+      "size": "14"
+    },
+    {
+      "name": "Adc. C",
       "img": "https://raw.githubusercontent.com/TridentDAO/classroomdb/main/glide.jpeg",
       "desc": "Introduction to C programming language,history of c, operators, input output statements, datatypes, loops, compilation and execution and many more.",
       "type": "Practical",
@@ -97,7 +89,7 @@
       "size": "14"
     },
     {
-      "name": "Communication Skills 1 (CS-I)",
+      "name": "Communication Skills 2 (CS-II)",
       "img": "https://raw.githubusercontent.com/TridentDAO/classroomdb/main/glide.jpeg",
       "desc": "Work on your personal communication Skills and other soft skills.",
       "type": "Theory",
@@ -105,12 +97,20 @@
       "size": "14"
     },
     {
-      "name": "Mathematical Foundation (MF)",
+      "name": "Numerical Method (NM)",
       "img": "https://raw.githubusercontent.com/TridentDAO/classroomdb/main/glide.jpeg",
       "desc": "Study of basic mathmatics that can be needed in programming. Study of set theory, cardinality, representation of set, graph theory, relation & function and many more.",
-      "type": "Theory",
+      "type": "Practical",
       "color": "#444444",
       "size": "14"
+    },
+    {
+      "name": "3rd SEM",
+      "img": "https://raw.githubusercontent.com/TridentDAO/classroomdb/main/glide.jpeg",
+      "desc": "",
+      "type": "YEAR II",
+      "color": "#202124",
+      "size": "0"
     }
   ]
 }
