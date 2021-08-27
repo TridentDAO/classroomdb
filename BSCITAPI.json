@@ -16,7 +16,7 @@
       "type": "Theory",
       "color": "#444444",
       "size": "14",
-      "textsize":10
+      "textsize":8
     },
     {
       "name": "Microcessor (MICRO)",
@@ -25,7 +25,7 @@
       "type": "Practical",
       "color": "#444444",
       "size": "14",
-      "textsize":10
+      "textsize":8
     },
     {
       "name": "Programming in C (Prog. In C)",
@@ -34,7 +34,7 @@
       "type": "Practical",
       "color": "#444444",
       "size": "14",
-      "textsize":10
+      "textsize":8
     },
     {
       "name": "Communication Skills 1 (CS-I)",
@@ -43,7 +43,7 @@
       "type": "Theory",
       "color": "#444444",
       "size": "14",
-      "textsize":10
+      "textsize":8
     },
     {
       "name": "Mathematical Foundation (MF)",
@@ -52,7 +52,7 @@
       "type": "Theory",
       "color": "#444444",
       "size": "14",
-      "textsize":10
+      "textsize":8
     },
     {
       "name": "2nd SEM",
@@ -70,7 +70,7 @@
       "type": "Practical",
       "color": "#444444",
       "size": "14",
-      "textsize":10
+      "textsize":8
     },
     {
       "name": "Oprating System (Os)",
@@ -79,7 +79,7 @@
       "type": "Theory",
       "color": "#444444",
       "size": "14",
-      "textsize":10
+      "textsize":8
     },
     {
       "name": "IT TOOLS & WEB I",
@@ -88,7 +88,7 @@
       "type": "Practical",
       "color": "#444444",
       "size": "14",
-      "textsize":10
+      "textsize":8
     },
     {
       "name": "Adc. C",
@@ -97,7 +97,7 @@
       "type": "Practical",
       "color": "#444444",
       "size": "14",
-      "textsize":10
+      "textsize":8
     },
     {
       "name": "Communication Skills 2 (CS-II)",
@@ -106,7 +106,7 @@
       "type": "Theory",
       "color": "#444444",
       "size": "14",
-      "textsize":10
+      "textsize":8
     },
     {
       "name": "Numerical Method (NM)",
@@ -115,7 +115,7 @@
       "type": "Practical",
       "color": "#444444",
       "size": "14",
-      "textsize":10
+      "textsize":8
     },
     {
       "name": "3rd SEM",
