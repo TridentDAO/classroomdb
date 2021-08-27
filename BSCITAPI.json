@@ -7,7 +7,8 @@
       "type": "YEAR I",
       "color": "#202124",
       "size": "0",
-      "textsize":17
+      "textsize":17,
+      "descview": false
     },
     {
       "name": "Computer Fundamental (CF)",
@@ -16,7 +17,8 @@
       "type": "Theory",
       "color": "#444444",
       "size": "14",
-      "textsize":8
+      "textsize":8,
+      "descview": true
     },
     {
       "name": "Microcessor (MICRO)",
@@ -25,7 +27,8 @@
       "type": "Practical",
       "color": "#444444",
       "size": "14",
-      "textsize":8
+      "textsize":8,
+      "descview": true
     },
     {
       "name": "Programming in C (Prog. In C)",
@@ -34,7 +37,8 @@
       "type": "Practical",
       "color": "#444444",
       "size": "14",
-      "textsize":8
+      "textsize":8,
+      "descview": true
     },
     {
       "name": "Communication Skills 1 (CS-I)",
@@ -43,7 +47,8 @@
       "type": "Theory",
       "color": "#444444",
       "size": "14",
-      "textsize":8
+      "textsize":8,
+      "descview": true
     },
     {
       "name": "Mathematical Foundation (MF)",
@@ -52,7 +57,8 @@
       "type": "Theory",
       "color": "#444444",
       "size": "14",
-      "textsize":8
+      "textsize":8,
+      "descview": true
     },
     {
       "name": "2nd SEM",
@@ -61,7 +67,8 @@
       "type": "YEAR I",
       "color": "#202124",
       "size": "0",
-      "textsize":17
+      "textsize":17,
+      "descview": false
     },
     {
       "name": "Data Structures (DS)",
@@ -70,7 +77,8 @@
       "type": "Practical",
       "color": "#444444",
       "size": "14",
-      "textsize":8
+      "textsize":8,
+      "descview": true
     },
     {
       "name": "Oprating System (Os)",
@@ -79,7 +87,8 @@
       "type": "Theory",
       "color": "#444444",
       "size": "14",
-      "textsize":8
+      "textsize":8,
+      "descview": true
     },
     {
       "name": "IT TOOLS & WEB I",
@@ -88,7 +97,8 @@
       "type": "Practical",
       "color": "#444444",
       "size": "14",
-      "textsize":8
+      "textsize":8,
+      "descview": true
     },
     {
       "name": "Adc. C",
@@ -97,7 +107,8 @@
       "type": "Practical",
       "color": "#444444",
       "size": "14",
-      "textsize":8
+      "textsize":8,
+      "descview": true
     },
     {
       "name": "Communication Skills 2 (CS-II)",
@@ -106,7 +117,8 @@
       "type": "Theory",
       "color": "#444444",
       "size": "14",
-      "textsize":8
+      "textsize":8,
+      "descview": true
     },
     {
       "name": "Numerical Method (NM)",
@@ -115,7 +127,8 @@
       "type": "Practical",
       "color": "#444444",
       "size": "14",
-      "textsize":8
+      "textsize":8,
+      "descview": true
     },
     {
       "name": "3rd SEM",
@@ -124,7 +137,8 @@
       "type": "YEAR II",
       "color": "#202124",
       "size": "0",
-      "textsize":17
+      "textsize":17,
+      "descview": false
     }
   ]
 }
